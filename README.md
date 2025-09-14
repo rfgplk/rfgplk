@@ -1,5 +1,7 @@
 👋 welcome, hope you find this code useful.
 
+🌳 deep expertise in compilers, optimization, parallelism, compression, cryptography and (extremely) low-level systems programming.
+
 <!--
 **rfgplk/rfgplk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
