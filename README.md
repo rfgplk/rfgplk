@@ -6,6 +6,10 @@
 
 💬 "c makes it easy to shoot yourself in the foot. c++ makes it harder, but when you do, it blows away your whole leg." -- Bjarne Stroustrup
 
+
+📫 if you have any inquiries, feel free to contact me
+
+
 <!--
 **rfgplk/rfgplk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
