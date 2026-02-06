@@ -2,7 +2,7 @@
 
 📚 software architect, physicist, and a fan of recreational mathematics (tensor theory + differential topology)
 
-🌳 deep expertise in compilers, optimization, parallelism, compression, cryptography and (extremely) low-level systems programming.
+🌳 deep expertise in compilers, low-level optimizations, parallelism, compression, cryptography and (extremely) low-level systems programming.
 
 💬 "c makes it easy to shoot yourself in the foot. c++ makes it harder, but when you do, it blows away your whole leg." -- Bjarne Stroustrup
 
