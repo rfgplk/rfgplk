@@ -7,7 +7,7 @@
 💬 "c makes it easy to shoot yourself in the foot. c++ makes it harder, but when you do, it blows away your whole leg." -- Bjarne Stroustrup
 
 
-📫 if you have any inquiries, feel free to contact me
+📫 if you have any inquiries, or if you are interested in consulting or advisory work, feel free to contact me
 
 
 <!--
